@@ -1,1 +1,1 @@
-5+5
+console.log('Solved');
