@@ -1,1 +1,1 @@
-console.log('Solved');
+console.log('Start');
