@@ -1,2 +1,2 @@
-console.log('Nothing');
+console.log('b');
 
